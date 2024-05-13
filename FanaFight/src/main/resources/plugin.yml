@@ -1,0 +1,6 @@
+name: FanaFight
+main: fr.alphadesnoc.fanafight.FanaFight
+version: 0.0.1
+api-version: 1.20
+depend:
+  - FanaCore

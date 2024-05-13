@@ -1,0 +1,6 @@
+name: FanaMod
+main: fr.alphadesnoc.fanamod.FanaMod
+version: 0.0.1
+api-version: 1.20
+depend:
+  - FanaCore

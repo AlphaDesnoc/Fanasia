@@ -1,0 +1,6 @@
+name: FanaEco
+main: fr.alphadesnoc.fanaeco.FanaEco
+version: 0.0.1
+api-version: 1.20
+depend:
+  - FanaCore

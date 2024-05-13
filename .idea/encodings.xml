@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/FanaBlocks/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaBlocks/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaCore/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaCore/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaEco/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaEco/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaEnchants/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaEnchants/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaFight/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaFight/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaItems/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaItems/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaMobs/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaMobs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaMod/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaMod/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaRank/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaRank/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaUtils/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaUtils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaWorld/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FanaWorld/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

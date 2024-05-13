@@ -1,0 +1,6 @@
+name: FanaRank
+main: fr.alphadesnoc.fanarank.FanaRank
+version: 0.0.1
+api-version: 1.20
+depend:
+  - FanaCore
